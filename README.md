@@ -2,7 +2,8 @@
 CRLF Injector Testing , Fast Efficient , written in go with more than 100 payloads and advance detection mechanism .
 
 # FileStructure
-'''
+
+
 crlfi/
 ├── cmd/
 │   └── crlfi/
@@ -21,5 +22,3 @@ crlfi/
 ├── README.md
 ├── go.mod
 └── go.sum
-
-'''
